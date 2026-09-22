@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=180&section=header&text=Olá,%20sou%20[Seu%20Nome]&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=180&section=header&text=Olá,%20sou%20[Ícaro%20Souza]&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
 <br/>
@@ -38,5 +38,5 @@ Desenvolvedor focado na construção de sistemas eficientes e interfaces moderna
 
 ### 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINK)
-[![Email](https://img.shields.io/badge/Email-1e40af?style=flat-square&logo=gmail&logoColor=white)](mailto:seu-email@dominio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ícaro-de-souza-)
+[![Email](https://img.shields.io/badge/Email-1e40af?style=flat-square&logo=gmail&logoColor=white)](mailto:icarodesouzatome@gmail.com)
