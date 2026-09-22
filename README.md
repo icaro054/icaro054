@@ -30,8 +30,8 @@ Desenvolvedor focado na construção de sistemas eficientes e interfaces moderna
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="145" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&title_color=60a5fa&icon_color=3b82f6&text_color=94a3b8&bg_color=0d1117" />
-  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&title_color=60a5fa&text_color=94a3b8&bg_color=0d1117" />
+  <img height="145" src="https://github-readme-stats.vercel.app/api?username=icaro054&show_icons=true&hide_border=true&title_color=60a5fa&icon_color=3b82f6&text_color=94a3b8&bg_color=0d1117" />
+  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaro054&layout=compact&hide_border=true&title_color=60a5fa&text_color=94a3b8&bg_color=0d1117" />
 </p>
 
 ---
